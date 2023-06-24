@@ -5,7 +5,7 @@ Node.js,
 React.js,
 Next.js,
 Mongo DB, and
-Tailwind CSS
+Tailwind CSS.
 The site is posted at:
 https://promptify-8oh2gc5k8-paul8301.vercel.app/
 
